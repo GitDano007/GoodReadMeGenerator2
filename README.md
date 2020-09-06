@@ -1,7 +1,10 @@
-# readme generator
+# asdf
 
 ## Description
-create a readme
+asdf
+
+
+
 
 ## Table of Contents
 * [Description](#Description)
@@ -12,20 +15,27 @@ create a readme
 * [Tests](#Tests)
 * [Questions](#Questions)
 
+
+
+
+
 ## Installation
-install Node
+asdf
+
+
+
 
 ## Usage
-Install inquirer and fs
+asf
 
 ## Licenses
-This application is covered under MIT License.
+This application is covered under BSD 3-Clause 'New' or 'Revised' License.
 
 ## Contributing
-myself
+asdf
 
 ## Tests
-manual testing
+sadf
 
 ## Questions
-For any further questions, feel free to contact me on GitHub at http://github.com/GITDAN or send me an email at: dan@yahoo.com.
+For any further questions, feel free to contact me on GitHub at http://github.com/asdf or send me an email at: asf.
