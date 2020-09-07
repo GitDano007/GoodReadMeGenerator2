@@ -1,7 +1,7 @@
-# asdf
+# test
 
 ## Description
-asdf
+test
 
 
 
@@ -20,22 +20,22 @@ asdf
 
 
 ## Installation
-asdf
+test
 
 
 
 
 ## Usage
-asf
+test
 
 ## Licenses
-This application is covered under BSD 3-Clause 'New' or 'Revised' License.
+This application is covered under MIT License.
 
 ## Contributing
-asdf
+tet
 
 ## Tests
-sadf
+test
 
 ## Questions
-For any further questions, feel free to contact me on GitHub at http://github.com/asdf or send me an email at: asf.
+For any further questions, feel free to contact me on GitHub at http://github.com/test or send me an email at: test.
