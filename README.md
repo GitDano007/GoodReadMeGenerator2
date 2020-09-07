@@ -1,7 +1,7 @@
-# test
+# Readme Generator
 
 ## Description
-test
+Create a Readme File using Node
 
 
 
@@ -20,21 +20,22 @@ test
 
 
 ## Installation
-test
+install Node and all needed files
+
 
 
 
 ## Usage
-test
+Use to create a Readme File
 
 ## Licenses
 This application is covered under MIT License.
 
 ## Contributing
-tet
+Myself
 
 ## Tests
-test
+manual testing
 
 ## Questions
-For any further questions, feel free to contact me on GitHub at http://github.com/test or send me an email at: test.
+For any further questions, feel free to contact me on GitHub at http://github.com/GITDAN or send me an email at: dan@gmail.com.
